@@ -5,7 +5,7 @@ I have a Bachelor's degree in Information Technology in Economics with a special
 For several years, I worked for a large petrochemical company where I specialized in master data management.
 However, I decided to take a brave step and enter the exciting world of IT.
 
-I study 2 foreign languages: English - B2, Turkish - A2.
+I study 2 foreign languages: English - B1+, Turkish - A2.
 
 I'm constantly learning and trying to improve my skills, as I believe that personal growth is the most important aspect of life.
 
