@@ -1,5 +1,7 @@
 # Angelina - Full Stack Developer :computer:
 
+## [Link to my CV](https://angelinabz.github.io/cv/)
+
 ## About Me :pencil2::
 I have a Bachelor's degree in Information Technology in Economics with a specialization in **Business Informatics**.
 For several years, I worked for a large petrochemical company where I specialized in master data management.
@@ -16,7 +18,6 @@ I'm constantly learning and trying to improve my skills, as I believe that perso
 
 - [Telegram](https://t.me/angelinabezik)
 - [LinkedIn](https://linkedin.com/in/angelina-bezik-b5792a277)
-- [Instagram](https://www.instagram.com/angelinabezik/)
 
 ## Pet Projects :trophy::
 | Name | Technologies |
