@@ -12,7 +12,7 @@ I study 2 foreign languages: English - B1+, Turkish - A2.
 I'm constantly learning and trying to improve my skills, as I believe that personal growth is the most important aspect of life.
 
 ## Current Stack  🔨:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,angular,react,jest,vitest,webpack,vite,nodejs,nestjs,postgres,prisma,graphql,docker,figma,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,angular,react,redux,jest,vitest,webpack,vite,nodejs,nestjs,postgres,prisma,graphql,docker,figma,threejs)](https://skillicons.dev)
 
 ## Contact Me :iphone::
 
