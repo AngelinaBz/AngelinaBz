@@ -12,7 +12,7 @@ I study 2 foreign languages: English - B1+, Turkish - A2.
 I'm constantly learning and trying to improve my skills, as I believe that personal growth is the most important aspect of life.
 
 ## Current Stack  🔨:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,angular,react,redux,jest,vitest,webpack,vite,nodejs,nestjs,postgres,prisma,graphql,docker,figma,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,angular,react,nextjs,redux,jest,vitest,webpack,vite,nodejs,nestjs,postgres,prisma,graphql,docker,figma,threejs)](https://skillicons.dev)
 
 ## Contact Me :iphone::
 
@@ -23,7 +23,9 @@ I'm constantly learning and trying to improve my skills, as I believe that perso
 | Name | Technologies |
 |------|--------------|
 | [Videogames store](https://cybervaultt.netlify.app/) | Angular with Redux (NgRx), TypeScript, HTML, SCSS, CommerceTools, ESLint, Prettier, Husky |
+| [APICraft Application](https://rs-rest-client-app.netlify.app/) | Next.js, TypeScript, CSS, Ant Design, React Hook Form with yup validation, Monaco Editor, Firebase, next-intl, ESLint, Prettier, Lint Staged, Husky, Vitest |
 | [Youtube app](https://angelinabz.github.io/youtube-client-app/youtube-client-app/) | Angular with Redux (NgRx), RxJs, TypeScript, HTML, SCSS, Youtube API, Jest, ESLint, Prettier |
+| [The Star Wars](https://github.com/AngelinaBz/REACT2025Q1/tree/app-state-management) | React with Redux, TypeScript, CSS, The Star Wars API, Vitest, Vite, ESLint, Prettier, Husky |
 | [Coffee-House](https://angelinabz.github.io/Coffee-House/home.html) | HTML, CSS, JavaScript |
 | [Mini-game English-puzzle](https://angelinabz.github.io/english-puzzle/) | HTML, CSS, TypeScript, Webpack, ESLint, Prettier, Husky |
 | [Word game Hangman](https://angelinabz.github.io/hangman/) | HTML, CSS, JavaScript |
